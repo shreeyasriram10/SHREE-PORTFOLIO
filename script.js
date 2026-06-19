@@ -190,7 +190,7 @@ function createParticles() {
 }
 
 // ===========================
-// BUTTON INTERACTIONS
+// BUTTON INTERACTIONS'p
 // ===========================
 
 document.querySelectorAll('.btn').forEach((btn) => {
@@ -228,7 +228,6 @@ document.querySelectorAll('.project-card').forEach((card) => {
     card.addEventListener('mouseenter', function () {
         this.style.transform = 'translateY(-15px)';
     });
-
     card.addEventListener('mouseleave', function () {
         this.style.transform = 'translateY(0)';
     });
@@ -251,6 +250,7 @@ document.querySelectorAll('.skill-card').forEach((card) => {
 // ===========================
 // ACHIEVEMENT CARD HOVER EFFECTS
 // ===========================
+
 
 document.querySelectorAll('.achievement-card').forEach((card) => {
     card.addEventListener('mouseenter', function () {
@@ -341,7 +341,7 @@ if (prefersReducedMotion.matches) {
 const contactForm = document.getElementById("contactFormMain");
 
 if (contactForm) {
-    contactForm.addEventListener("submit", function(e) {
+    contactForm.addEventListener("submit", function (e) {
         const name = document.getElementById("contactName").value.trim();
         const email = document.getElementById("contactEmail").value.trim();
         const message = document.getElementById("contactMessage").value.trim();
