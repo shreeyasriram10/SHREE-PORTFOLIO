@@ -280,4 +280,4 @@ Built with modern web technologies:
 
 **Made with ❤️ for Shreeya S**
 
-For questions or customization help, refer to the code comments throughout the files.
+
