@@ -1,18 +1,18 @@
 # Shreeya S - Professional Portfolio Website
 
-A stunning, modern, and fully interactive personal portfolio website built with **HTML, CSS, and JavaScript** (no frameworks). Perfect for impressing recruiters, hackathon judges, and internship interviewers.
+A cinematic personal portfolio website built with **HTML, CSS, and JavaScript** (no frameworks). It preserves Shreeya's professional content while adding a lightweight architectural entrance and guided journey.
 
 ## 🎨 Features
 
 ### Design Elements
-- **Dark Premium Theme**: Black and deep navy background with professional aesthetics
-- **Glassmorphism Effects**: Modern glass-like cards with blur and transparency
-- **Smooth Animations**: Fade-in, slide-in, floating, and glow effects
-- **Gradient Accents**: Subtle blue/purple gradients throughout
+- **Editorial Theme**: Blush rose, warm ivory, and rosewood palette
+- **Architectural Entrance**: CSS 3D doorway with open/skip controls
+- **Smooth Animations**: Door, caption, reveal, hover, and section transitions
+- **Project Evidence**: Problem statements, contributions, stacks, GitHub links, and demos where verified
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop
 
 ### Interactive Elements
-- ✨ **Typing Animation**: Dynamic hero subtitle with cursor animation
+- 🚪 **Cinematic Intro**: Enter my world, view the resume, or skip directly to the portfolio
 - 🎯 **Smooth Scrolling**: Navigate sections smoothly with active nav highlighting
 - 🌊 **Scroll Animations**: Cards and sections fade in as you scroll
 - 🎮 **Hover Effects**: Interactive cards that lift and glow on hover
@@ -29,6 +29,7 @@ SHREE PORTFOLIO/
 ├── script.js           # JavaScript for interactivity
 └── README.md           # This file
 ```
+
 
 ## 🚀 Quick Start
 
